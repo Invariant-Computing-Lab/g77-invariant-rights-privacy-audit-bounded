@@ -1,0 +1,10 @@
+{
+  "records": [
+    {
+      "path": "README.md"
+    },
+    {
+      "path": "data/patient.csv"
+    }
+  ]
+}
